@@ -8,7 +8,7 @@
 <body>
 
 	<div class="marco">
-		<img src="images/banner1.PNG" style="width: 100%; height: auto;" />
+		<center><img src="images/banner1.PNG" style="width: 100; height: 80;" /></center>
 		<?php
 		$servername = "us-cdbr-iron-east-03.cleardb.net";
 		$username = "b74ba3320e82ec";
@@ -34,7 +34,7 @@
 		<?php }  
 		$conn->close();
 		?> 
-		<img src="images/banner2.PNG" style="width: 100%; height: auto;" />
+		<center><img src="images/banner2.PNG" style="width: 100; height: 80;" /></center>
 	</div>
 </body>
 </html>
